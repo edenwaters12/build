@@ -7,3 +7,5 @@ os.system('git push')
 
 
 print("okkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk")
+
+os.system('exit')
